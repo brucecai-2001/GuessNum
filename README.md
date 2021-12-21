@@ -1,0 +1,2 @@
+# GuessNum
+Qt demo project
